@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gelochka
 - 👀 I’m interested in astronomy
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: insta @gella_rolf
 - 😄 Pronouns: ...
