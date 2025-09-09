@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gelochka
-- 👀 I’m interested in astronomy, VLBI, statistics and analytics. 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on VLBI community, astronomers and R users
+- 👀 I’m interested in astronomy, VLBI, statistics, analytics and travelling. 
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on VLBI community, astronomers and R users. 
 - 📫 How to reach me: insta @gella_rolf, I prefer not to publish my email publicly.
 - ORCID: https://orcid.org/0009-0004-8160-1701
 - Projects: [COTIC](https://cotic.shinyapps.io/cotic/) 
