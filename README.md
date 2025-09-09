@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gelochka
-- 👀 I’m interested in astronomy, VLBI 
+- 👀 I’m interested in astronomy, VLBI, statistics and analytics. 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on VLBI community, astronomers and R users
 - 📫 How to reach me: insta @gella_rolf, I prefer not to publish my email publicly.
